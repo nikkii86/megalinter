@@ -149,6 +149,13 @@ Note: Can be used with `oxsecurity/megalinter@beta` in your GitHub Action mega-l
   - [lightning-flow-scanner](https://github.com/Lightning-Flow-Scanner) from 2.21.0 to **2.22.0** on 2024-04-14
   - [terraform-fmt](https://developer.hashicorp.com/terraform/cli/commands/fmt) from 1.7.5 to **1.8.0** on 2024-04-14
   - [terragrunt](https://terragrunt.gruntwork.io) from 0.56.2 to **0.57.0** on 2024-04-14
+  - [cfn-lint](https://github.com/aws-cloudformation/cfn-lint) from 0.86.2 to **0.86.3** on 2024-04-16
+  - [roslynator](https://github.com/dotnet/Roslynator) from 0.8.4.0 to **0.8.5.0** on 2024-04-16
+  - [phpstan](https://phpstan.org/) from 1.10.66 to **1.10.67** on 2024-04-16
+  - [checkov](https://www.checkov.io/) from 3.2.63 to **3.2.67** on 2024-04-16
+  - [grype](https://github.com/anchore/grype) from 0.75.0 to **0.76.0** on 2024-04-16
+  - [rubocop](https://rubocop.org/) from 1.63.1 to **1.63.2** on 2024-04-16
+  - [snakefmt](https://github.com/snakemake/snakefmt) from 0.10.0 to **0.10.1** on 2024-04-16
 <!-- linter-versions-end -->
 
 ## [v7.10.0] - 2024-03-10
